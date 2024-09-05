@@ -5,7 +5,8 @@
 I developed an end-to-end real-time data engineering solution for ingesting, processing, and analyzing live stock market data using Apache Kafka. The objective was to build a system that could efficiently handle and process streaming data. I employed technologies such as Python and Amazon Web Services (AWS) to create a robust, scalable data pipeline.
 
 ## Architecture
-*(Include architecture diagram here)*
+
+![Architecture Diagram](https://github.com/RamdasCoundinya0716/realtimedataanalysis/blob/main/Architecture.jpg)
 
 ## Technology Used
 - **Programming Language**: Python
